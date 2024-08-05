@@ -1,0 +1,6 @@
+[submodule "accelerated_features"]
+	path = accelerated_features
+	url = https://github.com/verlab/accelerated_features.git
+[submodule "RoMa"]
+	path = RoMa
+	url = https://github.com/Parskatt/RoMa.git
