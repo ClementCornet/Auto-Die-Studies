@@ -1,0 +1,11 @@
+Dataset: Paphos # Paphos | Tanis1986 | Custom dataset
+Matching:
+  Algo:
+    XFeat # XFeat | RoMa
+  Params:
+    XFeat-TopK: 5000
+    RoMa-Threshold: 0.9 
+Filtering:
+  False
+Clustering:
+  AGLP # AGLP | HDBSCAN-Dissim | HDBSCAN-Proj | ConnectedComponents_Clustering
