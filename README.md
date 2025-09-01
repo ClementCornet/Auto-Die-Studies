@@ -52,13 +52,10 @@ Clément Cornet, Héloïse Aumaître, Romaric Besançon, Julien olivier, Thomas 
 
 
 ```
-@misc{cornet2024automaticdiestudiesancient,
-      title={Automatic Die Studies for Ancient Numismatics}, 
-      author={Clément Cornet and Héloïse Aumaître and Romaric Besançon and Julien Olivier and Thomas Faucher and Hervé Le Borgne},
-      year={2024},
-      eprint={2407.20876},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2407.20876}, 
+@inproceedings{cornet2024auto_die_studies,
+  title = {Automatic Die Studies for Ancient Numismatics},
+  author = {Cornet, Cl{\'e}ment and Auma{\^i}tre, H{\'e}lo{\"i}se and Besan\c{c}on, Romaric and Olivier, Julien and Faucher, Thomas and {Le Borgne}, Herv{\'e}},
+  booktitle = {$3^{rd}$ International Workshop on Artificial Intelligence for Digital Humanities (AI4DH@ECCV)},
+  year = {2024},
 }
 ```
